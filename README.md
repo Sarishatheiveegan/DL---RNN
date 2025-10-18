@@ -39,9 +39,7 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: S.YOGESH
 
-### Register Number:212224230311
 
 ```python
 
