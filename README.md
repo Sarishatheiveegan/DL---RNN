@@ -186,8 +186,8 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ### Predictions
 
+<img width="285" height="64" alt="image" src="https://github.com/user-attachments/assets/71d028a8-24f7-40e1-b5d5-c2b177712146" />
 
-<img width="277" height="50" alt="image" src="https://github.com/user-attachments/assets/cf0743f2-ea0f-47ee-b9a5-5890120c7c91" />
 
 
 ## RESULT
